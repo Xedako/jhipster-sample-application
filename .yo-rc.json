@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "OWU2YTk0MjljMGE0MjU2NDkxZmU4ODNmZWM5Nzk3ZTIxYTI5YjY5NzYyZWUwMmQ3MTY5ZmZjYjJkNGI4Mjc0NzU2ZmJiYWQ3NTcxMjczYjRhOTMzMWQwOWY4ODJlY2EyNzIyNzdkNDdlMDU2ZTY0N2NmMWI1OWZmZDlmNmQyYWM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "Xedako",
+  "repository-name": "jhipster-sample-application"
+}
